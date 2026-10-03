@@ -74,5 +74,5 @@ on your machine.
 - Antoine Vastel / DataDome, "How New Headless Chrome & the CDP Signal Are
   Impacting Bot Detection": https://datadome.co/threat-research/how-new-headless-chrome-the-cdp-signal-are-impacting-bot-detection/
 - Rebrowser, "How to fix Runtime.Enable CDP detection": https://rebrowser.net/blog/how-to-fix-runtime-enable-cdp-detection-of-puppeteer-playwright-and-other-automation-libraries-61740
-- Brotector (test page and source): https://kaliiiiiiiiii.github.io/brotector/
+- Brotector (test page and source): https://ttlns.github.io/brotector/
 - bot.sannysoft.com: https://bot.sannysoft.com/
